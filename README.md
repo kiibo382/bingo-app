@@ -1,4 +1,5 @@
-# vue3-sample-ts
+# bingo-app
+I created this repo to try out vue3
 
 ## Project setup
 ```
